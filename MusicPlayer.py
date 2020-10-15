@@ -307,7 +307,7 @@ def altrock():
 #  root.mainloop()
 
 def player():
- print("Lofi, Pop, Sad Stuff, Random, AltRock")
+ print("Lofi, Pop, Random, AltRock")
  a = input("what genre playlist would you like to listen to?")
 
  if a == ("Sad Stuff"):
