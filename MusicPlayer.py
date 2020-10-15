@@ -1,19 +1,19 @@
 from playsound import playsound
 import time
-from ModTkinter import *
+
 
 Genres = ("restart")
 
-first_date = "I:\Downloads\Frad - first date.mp3"
-the_girl_i_have_a_crush_on = "I:\Downloads\Frad - the girl i have a crush on.mp3"
-im_so_tired = "I:\Downloads\Lauv & Troye Sivan - i'm so tired... [Official Visualizer].mp3"
-mean_it = "I:\Downloads\Lauv & LANY - Mean It [Official Video].mp3"
-there_for_you = "I:\Downloads\Martin Garrix & Troye Sivan - There for You (Official Video).mp3"
-when_i_was_your_man = "I:\Downloads\Bruno Mars - When I Was Your Man (Official Video).mp3"
-christmas_is_YOUU = "I:\Downloads\All I Want For Christmas Is You X Crank That Soulja Boy - Mariah Carey Soulja Boy.mp3"
-kahoot_dreams = "I:\Downloads\sweet dreams but i put kahoot music over it but I fixed the tempo.mp3"
-my_nocturnal_serenade = "I:\Downloads\YOHIO - My Nocturnal Serenade (OFFICIAL MUSIC VIDEO).mp3"
-merry_go_round = "I:\Downloads\YOHIO - Merry Go Round (OFFICIAL MUSIC VIDEO).mp3"
+first_date = (r"C:\Users\pc\Downloads\Frad - first date.mp3")
+the_girl_i_have_a_crush_on = (r"C:\Users\pc\Downloads\Frad - the girl i have a crush on.mp3")
+im_so_tired = (r"C:\Users\pc\Downloads\Lauv & Troye Sivan - i'm so tired... [Official Visualizer].mp3")
+mean_it = (r"C:\Users\pc\Downloads\Lauv & LANY - Mean It [Official Video].mp3")
+there_for_you = (r"C:\Users\pc\Downloads\Martin Garrix & Troye Sivan - There for You (Official Video).mp3")
+when_i_was_your_man = (r"C:\Users\pc\Downloads\Bruno Mars - When I Was Your Man (Official Video).mp3")
+christmas_is_YOUU = (r"C:\Users\pc\Downloads\All I Want For Christmas Is You X Crank That Soulja Boy - Mariah Carey Soulja Boy.mp3")
+kahoot_dreams = (r"C:\Users\pc\Downloads\sweet dreams but i put kahoot music over it but I fixed the tempo.mp3")
+my_nocturnal_serenade = (r"C:\Users\pc\Downloads\YOHIO - My Nocturnal Serenade (OFFICIAL MUSIC VIDEO).mp3")
+merry_go_round = (r"C:\Users\pc\Downloads\YOHIO - Merry Go Round (OFFICIAL MUSIC VIDEO).mp3")
 
 def LofiQ():
     b = input("next or repeat?")
